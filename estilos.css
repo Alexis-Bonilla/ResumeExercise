@@ -10,7 +10,9 @@ body {
     margin:0;
     padding:0
   }
-
+.contenedorBody{
+    margin :0 20%;
+}
 
 .icono{
     width: 32px;
